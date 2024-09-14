@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Fighter Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="game">
+        <h1>Welcome to Space Fighter Game!!</h1>
+        <canvas id="gameCanvas"></canvas>
+        <div id="win-screen" style="display: none;">
+            <p>You Win!</p>
+            <button id="restartButton">Restart</button>
+        </div>
+        <div id="lose-screen" style="display: none;">
+            <p>You Lose!</p>
+            <p id="timeTaken"></p>
+            <button id="restartButtonLose">Restart</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
