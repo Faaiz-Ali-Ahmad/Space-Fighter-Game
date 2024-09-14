@@ -44,7 +44,7 @@ Welcome to **Space Fighter**, an action-packed 2D space game where you defend th
 
 ## 🏅 **Credits**
 
-Game developed by **Faaiz Ali Ahmad** 💻 | [LinkedIn](linkedin.com/in/faaiz-ali-ahmad)
+Game developed by **Faaiz Ali Ahmad** 💻 | [LinkedIn](https://www.linkedin.com/in/faaiz-ali-ahmad/))
 
 ---
 
